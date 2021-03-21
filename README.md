@@ -98,3 +98,34 @@ Backgrounds created by Craftpix (https://craftpix.net/)
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 Logo icons PNG Designed By linimasa from <a href="https://pngtree.com/">Pngtree.com</a>
+
+Fantasy Magic Runes created by Hippo under Standard Unity Asset Store EULA
+
+RPG inventory icons created by REXARD under Standard Unity Asset Store EULA
+
+Pixel Adventure 1 and Pixel Adventure 2 created by Pixel Frog under Standard Unity Asset Store EULA
+
+2D Monster Wizard created by JKTimmons under Standard Unity Asset Store EULA
+
+2D Ice World created by RAFMANIX under Standard Unity Asset Store EULA
+
+Basic RPG Icons created by PONETI under Standard Unity Asset Store EULA
+
+FREE - Spine 2D Character Animation created by DucVu FX under Standard Unity Asset Store EULA
+
+2D Fantasy Character Pack Demo created by Fabricio Corrreia Batista under Standard Unity Asset Store EULA
+
+Dragon Warrior (Free) created by Kin Ng under Standard Unity Asset Store EULA
+
+Ninja Sprite Sheet (Free) created by Kin Ng under Standard Unity Asset Store EULA
+
+Free Platform Game Assets created by Bayat Games under Standard Unity Asset Store EULA
+
+Knight Sprite Sheet (Free) created by Kin Ng under Standard Unity Asset Store EULA
+
+GUI Parts created by PONETI under Standard Unity Asset Store EULA
+
+2D Free Platformer Char created by Jurgen Alexon under Standard Unity Asset Store EULA
+
+Pixel Art Platformer - Village Props created by Cainos under Standard Unity Asset Store EULA
+
