@@ -1,6 +1,6 @@
 # MontheeCredits
 
-# SOUND ATTRIBUTIONS
+SOUND ATTRIBUTIONS
 
 These all sound effects are from: https://freesound.org/
 
