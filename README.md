@@ -7,6 +7,9 @@ These all sound effects are from: https://freesound.org/
 "Male_Jump_01" by Artmasterrich
 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
+"READYGO.wav" by shawshank73
+Attribution 3.0 Unported (CC BY 3.0)
+
 "menu select.wav" by strange_dragoon
 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
