@@ -10,6 +10,9 @@ LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 "menu select.wav" by strange_dragoon
 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
+"1UP video game" by ash_rezn
+LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+
 "Fireball Explosion.wav" by HighPixel
 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
