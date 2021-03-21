@@ -87,3 +87,14 @@ LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
 "blink 4 damped.wav" by natharra
 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+
+
+IMAGE
+
+Backgrounds created by Craftpix (https://craftpix.net/)
+
+"Free Game Items Pack #2" Olga Bikmullina (http://ahninniah.graphics) Licensed under Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+Logo icons PNG Designed By linimasa from <a href="https://pngtree.com/">Pngtree.com</a>
