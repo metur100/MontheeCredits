@@ -2,85 +2,224 @@ SOUND ATTRIBUTIONS
 
 These all sound effects are from: https://freesound.org/
 
-"Male_Jump_01" by Artmasterrich LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+SOUND EFFECTS
 
-"slime monster noises.wav" by konstati LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Melee Weapon Swings" by deleted_user_3656686 LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/deleted_user_3656686/sounds/215160/
 
-"Animal_Snarl_2.wav" by D001447733 LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0)
 
-"Bumble bee short.wav" by CGEffex LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0)
+"Warp Speed.wav" by Suburbanwizard LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Suburbanwizard/sounds/454683/
 
-"Animal_Snarl_2.wav" by D001447733 LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0)
 
-"Animal_Snarl_2.wav" by D001447733 LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0)
+"Short Monster Scream" by djani00 LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/djani00/sounds/220014/
 
-"Animal_Snarl_2.wav" by D001447733 LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0)
 
-"Animal_Snarl_2.wav" by D001447733 LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0)
+"Ghost Whispers" by Litruv LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Litruv/sounds/175944/
 
-"READYGO.wav" by shawshank73 Attribution 3.0 Unported (CC BY 3.0)
 
-"menu select.wav" by strange_dragoon LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Jingle_Win_00.wav" by LittleRobotSoundFactory LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/LittleRobotSoundFactory/sounds/270402/
 
-"1UP video game" by ash_rezn LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Fireball Explosion.wav" by HighPixel LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Melee Weapon Swings" by deleted_user_3656686 LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/deleted_user_3656686/sounds/215160/
 
-"Fireball Cast 3" by LiamG_SFX LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"jump.wav" by acebrian LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Crate Break 2.wav" by kevinkace LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/SamsterBirdies/sounds/435692/
 
-"Whoosh / Dash" by Kastenfrosch LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Shield Bash Impact" by Hybrid_V LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"bbang" by SamsterBirdies LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/kevinkace/sounds/66778/
 
-"Spellcast" by russscott1 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Magic_Spell_07.wav" by MATRIXXX_ LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"laser beam" by peepholecircus LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/peepholecircus/sounds/169991/
 
-"38-voz_salto1.wav" by claymorexx LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Death-1.wav" by Deathscyp LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Elevator" by marcel_farres LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/marcel_farres/sounds/186104/
 
-"Game_Over_05_Lost_Consci." by GentlemanWalru LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Death Rattle.wav" by Artmasterrich LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Rhino-03.wav" by patchen LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/patchen/sounds/3378/
 
-"Epic Orchestra - LOOP.wav" by joshuaempyre LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"launch.wav" by kfatehi LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Animal from another galaxy" by sabinchiks LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/sabinchiks/sounds/417138/
 
-"Fireball Cast 1" by mG_SFX LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Game Menu BUTTON CLICKING Sound" by Christopherderp LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"charliegrowl.m4a" by randomalistic LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/randomalistic/sounds/460211/
 
-"Magic Spell" by Kostas17 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Attack_Blocked.wav" by MATRIXXX_ LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"dragon wings.wav" by vedas LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/vedas/sounds/175381/
 
-"AttackSound_FreeStyle_02.wav" by Smullen93 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Melee Weapon Swings" by deleted_user_36 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Birds taking off fly.mp3" by Hope-Sounds LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Hope-Sounds/sounds/499679/
 
-"Snow Footsteps Running" by qubodup LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Slash.wav" by Maemi_no_yume LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"405Win.wav" by Jon285 LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Jon285/sounds/49513/
 
-"BEAT YO NOPE.wav" by drriquet LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"bow02.wav" by Erdie LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Book Sounds - Page Search" by The_Matt_Freeman LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/The_Matt_Freeman/sounds/222757/
 
-"arrow_damage.wav" by braqoon LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"Robot voice - access denied.wav" by Ionicsmusic LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"menu click 2" by Tissman LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Tissman/sounds/531851/
 
-"Granny says no.wav" by Timbre LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"breathing_jumping.wav" by GlennM LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"healpop.wav" by shyguy014 LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Tissman/sounds/531851/
 
-"small jump for videogames" by simoneyoh3998 LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
 
-"blink 4 damped.wav" by natharra LICENSED UNDER ATTRIBUTION CC BY-ND 2.0
+"Coin Gold Box Open" by EminYILDIRIM LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/EminYILDIRIM/sounds/536074/
+
+
+"55 S. E. jump" by jnvrbs LICENSED UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/jnvrbs/sounds/441084/
+
+
+"warpy_loop" by mazk1985 UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/mazk1985/sounds/187408/
+
+
+"Healing 1 (Crimson Respite).wav" by SilverIllusionist UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/SilverIllusionist/sounds/518801/
+
+
+"Healing Spell" by EminYILDIRIM UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/EminYILDIRIM/sounds/563662/
+
+
+"PickupItem.wav" by TriqyStudio UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/TriqyStudio/sounds/467610/
+
+
+"Magic Shield.wav" by spookymodem UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/spookymodem/sounds/249818/
+
+
+"Hurt Pig?" by spookymodem UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/altfuture/sounds/174632/
+
+
+"cartoon saltando" by danielp27 UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/danielp27/sounds/409360/
+
+
+"Pig grunts" by gerainsan UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/gerainsan/sounds/421734/
+
+
+"Chicken clucking" by Breviceps UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Breviceps/sounds/456803/
+
+
+"Wood Crack 2" by utsuru UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/utsuru/sounds/183452/
+
+
+"Laser blast x3" by peridactyloptrix UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/peridactyloptrix/sounds/214990/
+
+
+"retro shot blaster" by JavierZumer UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/JavierZumer/sounds/257232/
+
+
+"Musket Shot.wav" by mlsulli UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/mlsulli/sounds/234869/
+
+
+"03-Dolor.wav" by ZeritFreeman UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Breviceps/sounds/456803/
+
+
+"wings2.wav" by Godowan UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Godowan/sounds/240469/
+
+
+"Animal_Snarl_2.wav" by D001447733 UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/D001447733/sounds/464600/
+
+
+"shoot 1" by Leszek_Szary UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Leszek_Szary/sounds/368734/
+
+
+"Bumble bee short.wav" by CGEffex UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/CGEffex/sounds/99956/
+
+
+"space animal.wav" by draperz UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/draperz/sounds/221803/
+
+
+"slime monster noises.wav" by konstati UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/konstati/sounds/486506/
+
+
+"War Game Battle Level Up" by qubodup UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/qubodup/sounds/161654/
+
+
+"1UP video game" by ash_rez UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/ash_rez/sounds/518888/
+
+
+"menu select.wav" by strange_dragoon UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/strange_dragoon/sounds/271139/
+
+
+"Fireball Explosion.wav" by HighPixel UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/HighPixel/sounds/431174/
+
+
+"Fireball Cast 3" by LiamG_SFX UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/LiamG_SFX/sounds/334237/
+
+
+"Game Menu BUTTON CLICKING Sound" by HighPixel UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Christopherderp/sounds/332257/
+
+
+"Attack_Blocked.wav" by MATRIXXX_ UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/MATRIXXX_/sounds/523760/
+
+
+"Whoosh / Dash" by Kastenfrosch UNDER CC0 1.0 Universal (CC0 1.0):
+https://freesound.org/people/Kastenfrosch/sounds/521999/
+
+
+
+BACKGROUND MUSIC
+
+
+"Fantasy Background Music (Loop)" by Migfus20 LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/Migfus20/sounds/561394/
+
+
+"Small Adventurers (music loop)" by ShadyDave LICENSED UNDER Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0):
+https://freesound.org/people/ShadyDave/sounds/471510/
+
+
+"Adventure/Fantasy Theme" by tyops LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/tyops/sounds/275807/
+
+
+"calm_happy_rpgTownBackground.mp3" by GoodByte LICENSED UNDER Attribution 3.0 Unported (CC BY 3.0):
+https://freesound.org/people/GoodByte/sounds/442911/
+
+
 
 IMAGE
 
@@ -89,7 +228,6 @@ Backgrounds created by Craftpix (https://craftpix.net/)
 "Free Game Items Pack #2" Olga Bikmullina (http://ahninniah.graphics) Licensed under Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/
 
 Icons made by Freepik from www.flaticon.com
-Logo icons PNG Designed By linimasa from Pngtree.com
 
 Fantasy Magic Runes created by Hippo under Standard Unity Asset Store EULA
 
